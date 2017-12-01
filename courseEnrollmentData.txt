@@ -1,0 +1,14 @@
+course-name: HND Software Development
+	Student 
+		matriculation-No: 12345
+		name: John Kavanagh
+		age: 28
+		sex: male
+course-name: HND Networking
+	Student 
+		matriculation-No: 1234
+		name: Gavin Ross
+		age: 28
+		sex: male
+	Subject 
+		subject-name: Topologies
